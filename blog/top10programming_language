@@ -1,0 +1,37 @@
+1) Python
+Python is perhaps the most user-friendly programming language of any on this list. It’s often said that Python’s syntax is clear, intuitive, and almost English-like, which, like Java, makes it a popular choice for beginners.
+
+Also like Java, Python has a variety of applications that make it a versatile, powerful option when choosing the best programming language for your use case. If you’re interested in back-end web development, for example, then the open-source Django framework, written in Python, is popular, easy to learn, and feature-rich. Django has been used in the development of some popular sites like Mozilla, Instagram, and Spotify.
+
+Python also has packages such as NumPy and SciPy that are commonly used in the fields of scientific computing, mathematics, and engineering. Other Python libraries such as TensorFlow, PyTorch, scikit-learn, and OpenCV are used to build programs in data science, machine learning, image processing, and computer vision. Python’s science and data applications make it a great choice for the academically inclined.
+12 Websites to Learn Python Programming for FREE — Best of Lot | by javinpaul | Javarevisited | Medium
+2) JavaScript
+It’s impossible to be a software developer these days without using JavaScript in some way. According to Stack Overflow’s 2020 Developer Survey, JavaScript is the most popular language among developers for the eighth year in a row. Nearly 70 percent of survey respondents reported that they had used JavaScript in the past year.
+
+Along with HTML and CSS, JavaScript is essential to front-end web development. A majority of the web’s most popular sites, from Facebook and Twitter to Gmail and YouTube, rely on JavaScript to create interactive web pages and dynamically display content to users.
+
+Although JavaScript is primarily a front-end language run on the browser, it can also be used on the server-side through Node.js to build scalable network applications. Node.js is compatible with Linux, SunOS, Mac OS X, and Windows.
+5 Great JavaScript Frameworks for 2020
+3) Java
+Java is another immensely popular programming language that, albeit being one of the oldest languages out there, is still highly in-demand. Java is often used in the work of large organizations. It is also widely used in Android development, which, considering the popularity that Android applications have garnered, makes Java a highly sought-after skill to have. Due to Java’s scalability, strong memory allocation, and high performance, companies like Amazon, Twitter, and Adobe are a few names that come under the list of users of this programming language, along with a million other repositories that can be found at GitHub and more other platforms also.
+
+4) C/C++
+C/C++ is among the fastest programming languages out there, providing a high level of functionality. This language is therefore used in the majority of low-level systems, such as operating systems, embedded systems, kernel development, etc. It is even used as a baseline in the development of other programming languages. Due to its large set of libraries and stable nature, C/C++ also plays a huge role in the areas of game development, computer graphics, virtual reality, and more. Companies like Nvidia, Google, Microsoft, and Apple are often on the lookout for C/C++ developers.
+Nail Your C++ Interview
+5) C#
+C# is a programming language developed by Microsoft that has made quite a name for itself in the web and game development departments. C# is most regularly used in the Unity software, which is one of the most popular game engine software used for building 2D and 3D video games. C# also plays a huge role in building Windows applications and has therefore been used at the back-end side of websites such as Bing, Visual Studio, etc.
+Guide] How to Use C# to Send Email From Your Application (With Code Samples)
+6) Golang
+Golang, referred to as “Go” for short, is a programming language developed by Google. In recent times, with concepts of multithreading and distributed systems becoming highly popular, Golang is slowly gaining fame. This language is currently one of the most widely used languages in Silicon Valley. Go has been designed in such a way that it easily supports multithreading and it allows processes to run concurrently, which is why this language was used for creating projects like Kubernetes, Docker, Blockchain, etc.
+Golang: Create a Web-View App for any platform | by Reza Torkaman Ahmadi | Medium
+7) R
+With both Data Science and Machine Learning gaining huge popularity in the industry, R is another programming language that has emerged as a hot favorite among users. Like Python, R provides a large set of libraries and frameworks. This makes R ideal to use in developing Machine Learning algorithms, as well as creating statistical models. Any company that requires a large collection of their data to undergo a process of analysis and visualization will be looking for developers proficient in the R programming language.
+Know The Importance Of Learning R Programming For Data Science - Talent Economy
+8) PHP
+Despite the huge popularity that languages like Python and JavaScript have garnered in backend development, PHP is still going strong and continues to be used by large companies, including Facebook, Yahoo, and Wikipedia. There remains a huge demand for PHP developers in the market, as many websites (particularly WordPress) around the web are running using PHP as their baseline. Therefore, PHP is still a great choice as a language to learn in 2021.
+The Best Software For PHP Coding | 2440 Media
+9) Swift
+Swift is a programming language developed by Apple for creating iOS applications. It is one of the most in-demand languages out there, as iOS applications are still extremely popular among users and Apple is still standing strong. Although Flutter (Dart) and React Native are also options for iOS development, Swift is still the more widely used and preferred option.
+5 Tips to level up your Swift programming skills | TechGig
+10) Kotlin
+Kotlin is a language developed by JetBrains whose work revolves around the development of Android applications. This is precisely why Google decided to name Kotlin as the official language for Android development, putting it ahead of Java. And, as Android is the highest-selling mobile operating system, the fact that Kotlin is one of the languages to learn in 2021 comes as no surprise.
